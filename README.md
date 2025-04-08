@@ -46,4 +46,24 @@ To analyze sales performance data using SQL and generate actionable insights acr
 ---
 
 ## 📁 Project Structure
+sales-performance-sql-project/
+│
+├── data/             # Raw sales dataset (CSV, Excel, etc.)
+├── sql_queries/      # SQL scripts for cleaning & analysis
+├── notes/            # Observations, planning notes, etc.
+└── README.md         # Project overview and documentation
+
+---
+
+## ✨ Future Work
+
+- Use Power BI to visualize trends by product and region
+- Apply window functions for ranking best-selling products
+- Explore discount optimization opportunities
+
+---
+
+## 🙋‍♀️ About Me
+
+Aspiring Data Analyst with a finance background, currently building a portfolio of SQL and Power BI projects. Let’s connect and collaborate!
 
